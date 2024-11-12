@@ -31,6 +31,9 @@ function App() {
                 description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae, tempore cumque accusantium ad, tenetur laborum omnis praesentium error odio earum molestiae! Tempore quam a voluptates, nisi dolor ipsam qui unde."
               />
             </div>
+            <div>
+            <button type="button" class="btn btn-primary">Primary</button>
+            </div>
             <div className="column">
               <Course
                 image={Csharp}
